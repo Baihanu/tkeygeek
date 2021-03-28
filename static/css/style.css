@@ -1,0 +1,60 @@
+.btn-outli{
+    color: black
+    border: 1px solid;
+    border-color: black;
+}
+
+.btn-xl{
+    font-size: 11px;
+    padding: 15px 45px;
+}
+
+.btn-outline{
+    color: white;
+    border: 1px solid;
+    border-color: white;
+}
+
+.btn{
+    border-radius: 300px;
+    font-family: 'Lato', 'Helvetica', 'Arial', 'sans-serif';
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+
+.phone-telegram-whats{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 15px;
+}
+
+.bg{
+    background-color: black;
+}
+
+.NavBackground {
+    border-color: rgba(34, 34, 34, 0.05);
+    background-color: white;
+}
+
+.spacetxt{
+    margin-bottom: 1rem !important;
+    font-size: 2rem;
+}
+
+@media screen and (max-width: 500px) {
+    .spacetxt {margin-top: 6rem !important;
+               font-size: 2rem;}
+}
+
+.imgback{
+    background-repeat:no-repeat;
+	background-size:contain;
+    background-position: center;
+	height: 600px;
+}
+
+.rights{
+    background-color: black;
+}
